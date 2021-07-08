@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi sitio querido</title>
+    <link>https://github.com/SergioGomz/prueba08072021.git/</link>
+    <description>Recent content on Mi sitio querido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 08 Jul 2021 01:29:04 -0300</lastBuildDate><atom:link href="https://github.com/SergioGomz/prueba08072021.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenida</title>
+      <link>https://github.com/SergioGomz/prueba08072021.git/posts/bienvenida/</link>
+      <pubDate>Thu, 08 Jul 2021 01:29:04 -0300</pubDate>
+      
+      <guid>https://github.com/SergioGomz/prueba08072021.git/posts/bienvenida/</guid>
+      <description>Acá estaría lo relacionado con la bienvenida</description>
+    </item>
+    
+    <item>
+      <title>Primer Post</title>
+      <link>https://github.com/SergioGomz/prueba08072021.git/posts/primer-post/</link>
+      <pubDate>Thu, 08 Jul 2021 01:28:09 -0300</pubDate>
+      
+      <guid>https://github.com/SergioGomz/prueba08072021.git/posts/primer-post/</guid>
+      <description>En este estaía ponele el primer post</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://github.com/SergioGomz/prueba08072021.git/contacto/</link>
+      <pubDate>Thu, 08 Jul 2021 01:23:00 -0300</pubDate>
+      
+      <guid>https://github.com/SergioGomz/prueba08072021.git/contacto/</guid>
+      <description>Aca estaria el contacto de c/u
+-Uno -Dos
+-tres
+-etc&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

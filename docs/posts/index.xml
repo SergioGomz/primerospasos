@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mi sitio querido</title>
-    <link>https://github.com/SergioGomz/prueba08072021.git/posts/</link>
+    <link>https://sergiogomz.github.io/primerospasos/posts/</link>
     <description>Recent content in Posts on Mi sitio querido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 08 Jul 2021 01:29:04 -0300</lastBuildDate><atom:link href="https://github.com/SergioGomz/prueba08072021.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jul 2021 01:29:04 -0300</lastBuildDate><atom:link href="https://sergiogomz.github.io/primerospasos/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenida</title>
-      <link>https://github.com/SergioGomz/prueba08072021.git/posts/bienvenida/</link>
+      <link>https://sergiogomz.github.io/primerospasos/posts/bienvenida/</link>
       <pubDate>Thu, 08 Jul 2021 01:29:04 -0300</pubDate>
       
-      <guid>https://github.com/SergioGomz/prueba08072021.git/posts/bienvenida/</guid>
+      <guid>https://sergiogomz.github.io/primerospasos/posts/bienvenida/</guid>
       <description>Acá estaría lo relacionado con la bienvenida</description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>https://github.com/SergioGomz/prueba08072021.git/posts/primer-post/</link>
+      <link>https://sergiogomz.github.io/primerospasos/posts/primer-post/</link>
       <pubDate>Thu, 08 Jul 2021 01:28:09 -0300</pubDate>
       
-      <guid>https://github.com/SergioGomz/prueba08072021.git/posts/primer-post/</guid>
+      <guid>https://sergiogomz.github.io/primerospasos/posts/primer-post/</guid>
       <description>En este estaía ponele el primer post</description>
     </item>
     

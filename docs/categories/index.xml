@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mi sitio querido</title>
-    <link>https://github.com/SergioGomz/prueba08072021.git/categories/</link>
+    <link>https://sergiogomz.github.io/primerospasos/categories/</link>
     <description>Recent content in Categories on Mi sitio querido</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="https://github.com/SergioGomz/prueba08072021.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://sergiogomz.github.io/primerospasos/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

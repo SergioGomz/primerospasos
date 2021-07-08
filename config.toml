@@ -1,0 +1,18 @@
+baseURL = "https://github.com/SergioGomz/prueba08072021.git/"
+languageCode = "es"
+title = "Mi sitio querido"
+theme= "tale"
+
+[menu]
+  [[menu.main]]
+	identifier = "contacto"
+	name = "Contacto"
+	title = "Contacto"
+	url = "/contacto/"
+	weight = 0
+  [[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 0

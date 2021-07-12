@@ -6,9 +6,8 @@ draft: false
 
 Aca estaria el contacto de c/u
 
--Uno
--Dos
+-Dra..... Mail.... 
 
--tres
+-Dr.... Mail.... 
 
 -etc...
